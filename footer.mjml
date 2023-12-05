@@ -10,7 +10,7 @@
   </mj-head>
   </mj-head>
   <mj-body width="340px">
-    <mj-section full-width="full-width" padding="20px" padding-bottom="25px" background-url="https://raw.githubusercontent.com/MutinyGroup/mail-footer/main/footer-bg.png" background-repeat="no-repeat" full-width="full-width">
+    <mj-section full-width="full-width" padding="20px" padding-bottom="25px" background-url="https://mutiny.pl/email/footer-bg.png" background-repeat="no-repeat" full-width="full-width">
       <mj-column padding-left="37px">
         <mj-text padding-bottom="4px" padding-top="0" font-family="Urbanist, Arial" font-size="20px" color="#222" font-weight="700"><span>Karol Anusiewicz</span></mj-text>
         <mj-text padding-bottom="20px" padding-top="0" font-family="Urbanist, Arial" font-size="12px" color="#FEC400" font-weight="600"><span>Co-founder & Project Manager</span></mj-text>
